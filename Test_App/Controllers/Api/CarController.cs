@@ -114,7 +114,7 @@ namespace Test_App.WebApi.Controllers.Api
         /// <remarks>
         /// Sample request:
         ///
-        ///     POST /DeleteCar
+        ///     Delete /DeleteCar
         ///     {
         ///         "id": 1,
         ///     }

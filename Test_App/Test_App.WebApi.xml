@@ -66,7 +66,7 @@
              <remarks>
              Sample request:
             
-                 POST /DeleteCar
+                 Delete /DeleteCar
                  {
                      "id": 1,
                  }

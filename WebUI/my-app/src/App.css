@@ -1,0 +1,31 @@
+.site-layout-content {
+  background: #fff;
+  padding: 24px;
+  min-height: 280px;
+}
+#components-layout-demo-top .logo {
+  width: 120px;
+  height: 31px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px 24px 16px 0;
+  float: left;
+}
+.car{
+ width: 15%;
+  
+  margin:20px;
+}
+.btn{
+  margin: 10px;
+}
+.carsContainer{
+  display: flex;
+}
+@media (min-width: 900px) {
+  p {
+    width: 20%;
+  }
+}
+.modal{
+  width: 100%;
+}
